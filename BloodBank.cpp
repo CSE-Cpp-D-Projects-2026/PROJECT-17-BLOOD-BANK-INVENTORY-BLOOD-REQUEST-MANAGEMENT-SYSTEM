@@ -29,3 +29,4 @@ stack<string> undoHistory;
 int nextUnitId = 1;
 int nextHospitalId = 1;
 int nextRequestId = 1;
+string BloodGroups[] = {"A+", "A-", "B+", "B-", "AB+", "AB-", "O+", "O-"};
